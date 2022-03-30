@@ -20,7 +20,6 @@ feature-set: Experience Manager
         + [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](adobe-cloud-platform-the-heart-of-experience-cloud.md)
         + [Technical Sneak Peek](aem-technical-sneak-peek.md)
         + [Customizing Dialog Fields in Touch UI](aem-customizing-dialog-fields-in-touch-ui.md)
-        + [Maintaining Open Source While Maintaining Your Sanity](maintaining-open-source-while-maintaining-your-sanity.md)
         + [Building Health Checks for AEM](aem-building-health-checks-for-aem.md)
         + [Running AEM on MongoDB](aem-running-aem-on-mongodb.md)
         + [AEM 5.6 Media Publisher Deep Dive ](aem-media-publisher-deep-dive.md)
