@@ -1,10 +1,10 @@
 ---
-user-guide-title: Adobe Experience Manager GEMS
+user-guide-title: Adobe Experience Manager GEMS Events
 user-guide-description: Gems on Adobe Experience Manager is a series of technical deep dives delivered by Adobe experts.
 feature-set: Experience Manager
 ---
 
-# Experience Manager GEMS {#using}
+# Experience Manager GEMS Events {#using}
 
 + [Overview](overview.md)
     + [2022](#2022)
