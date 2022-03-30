@@ -8,9 +8,7 @@ targetaudience: target-audience new;target-audience ongoing;target-audience upgr
 
 # AEM Query and Index Troubleshooting{#aem-query-and-index-troubleshooting}
 
-This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4. 
-
-[7/19/2017 - AEM Indexing and JCR Query](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-indexing-jcr-query.html)
+This is a continuation of last year's session AEM Indexing and JCR Query. It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23429/?quality=0)
 
