@@ -32,7 +32,7 @@ The webinars will be conducted regularly, including the following:
 All our webinars are conducted virtually and registration for upcoming AEM GEMs webinars will be done through [Adobe Experience Manager User Group](https://aem-augs.adobe.com/).
 Once you have registered to this user group, you will be notified on all our upcoming webinars, as well as other Adobe Experience Manager events. Please keep in mind that you will need to RSVP prior each event, and once done, you will be reminded to join.
 
-## Experience League Community - AEM Learning Chapter
+## Experience League Community
 
 Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success​.
 Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use​
