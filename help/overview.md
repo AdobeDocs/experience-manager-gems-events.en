@@ -12,10 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 
 ---
+![AltText Digital Experiences](./assets/ADX_Gems.png)
 
 # Adobe Experience Manager Gems
-
-![AltText Digital Experiences](../assets/ADX_Gems.png)
 
 ## 2022 Relaunch of AEM GEMs
 
