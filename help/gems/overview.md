@@ -36,7 +36,7 @@ Once you have registered to this user group, you will be notified on all our upc
 
 Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success​.
 Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use​
-Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions. ​
+Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions ​
 Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams​
 
 ## Previous webinar recording
