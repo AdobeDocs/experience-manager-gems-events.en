@@ -32,6 +32,13 @@ The webinars will be conducted regularly, including the following:
 All our webinars are conducted virtually and registration for upcoming AEM GEMs webinars will be done through [Adobe Experience Manager User Group](https://aem-augs.adobe.com/).
 Once you have registered to this user group, you will be notified on all our upcoming webinars, as well as other Adobe Experience Manager events. Please keep in mind that you will need to RSVP prior each event, and once done, you will be reminded to join.
 
+## Experience League Community - AEM Learning Chapter
+
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success​.
+Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use​
+Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions. ​
+Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams​
+
 ## Previous webinar recording
 
 Our last webinar was about **Build Sits Faster with AEM Headless and App Builder** and was conducted March 23rd. 
@@ -39,8 +46,3 @@ Our last webinar was about **Build Sits Faster with AEM Headless and App Builder
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
 This webinar was presented by Duy Nguyen, Software Development Engineer at Adobe
-
->[!MORELIKETHIS]
->
->* [AEM GEMs recordings achive](/help/gems/recordings.md)
->* [AEM as a Cloud Service release overview videos](/help/gems/aemcloudservicevideos.md)
