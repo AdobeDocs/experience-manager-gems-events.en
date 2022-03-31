@@ -15,13 +15,14 @@ user-guide-description: AEM GEM Sessions
 
 # Adobe Experience Manager Gems
 
-![AltText Digital Experiences](../assets/branding/ADX_Gems.png)
+![AltText Digital Experiences](../assets/ADX_Gems.png)
 
 ## 2022 Relaunch of AEM GEMs
 
 Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Experience Manager, delivered by Adobe experts. This series is a complement of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.
 
-The webinars will be conducted regularly, including the following: 
+The webinars will be conducted regularly, including the following:
+
 * A maximum duration of 60 minutes
 * Q&A at the end and chat experts available throughout the webinar
 * Recording available after each webinar
@@ -34,14 +35,15 @@ Once you have registered to this user group, you will be notified on all our upc
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success​.
-Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use​
-Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions ​
-Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams​
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+
+* Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
+* Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
+* Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
 
 ## Previous webinar recording
 
-Our last webinar was about **Build Sits Faster with AEM Headless and App Builder** and was conducted March 23rd. 
+Our last webinar was about **Build Sits Faster with AEM Headless and App Builder** and was conducted March 23rd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
