@@ -42,7 +42,7 @@ Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com
 
 ## Previous webinar recording
 
-Our last webinar was about **Build Sits Faster with AEM Headless and App Builder** and was conducted March 23rd.
+Our last webinar was about **Build Sites Faster with AEM Headless and App Builder** and was conducted March 23rd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
