@@ -13,7 +13,7 @@ feature-set: Experience Manager
 + [2021]{#gems2021}
 + [2020]{#gems2020}
   + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](/help/gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-  + [Principles of the new AEM Engineering Operations Framework](help/gems2020/granite-aem-engineering-framework.md)
+  + [Principles of the new AEM Engineering Operations Framework](/help/gems2020/granite-aem-engineering-framework.md)
 + [2019]{#gems2019}
   + [title](/help/gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
   + [title](/help/gems2019/aem-rich-text-editor-rte-deep-dive.md)
