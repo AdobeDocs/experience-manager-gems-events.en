@@ -8,8 +8,8 @@ feature-set: Experience Manager
 
 + [Overview](./overview.md)
 + [2022]{#gems2022}
-    + [Build Sites Faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-    + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
+    + [Build Sites Faster with AEM Headless and App Builder](/help/gems2022/build-sites-faster-with-headless-and-appbuilder.md)
+    + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](/help/gems2022/aemcloudservice-2021-review-and-outlook.md)
 + [2021]{#gems2021}
 + [2020]{#gems2020}
   + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](/help/gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
@@ -27,7 +27,6 @@ feature-set: Experience Manager
   + [title](/help/gems2019/introducing-the-aem-modernization-suite.md)
   + [title](/help/gems2019/leveraging-author-publish-for-aem-screens.md)
 + [2018]{#gems2018}
-  + [New Release Model for AEM 2018](/help/gems2018/granite-new-release-model.md)
   + [title](/help/gems2018/a-blank-registration-template.md)
   + [title](/help/gems2018/a-blank-registration-template1.md)
   + [title](/help/gems2018/adobe-cloud-platform-the-heart-of-experience-cloud.md)
@@ -56,7 +55,7 @@ feature-set: Experience Manager
   + [title](/help/gems2018/granite-ims-demo.md)
   + [title](/help/gems2018/granite-mapping-aem.md)
   + [title](/help/gems2018/granite-metrics-reporter.md)
-  + [title](/help/gems2018/granite-new-release-model.md)
+  + [New Release Model for AEM 2018](/help/gems2018/granite-new-release-model.md)
   + [title](/help/gems2018/granite-patent-submission.md)
   + [title](/help/gems2018/granite-selenium.md)
   + [title](/help/gems2018/jcr-aem-spa-editor.md)
