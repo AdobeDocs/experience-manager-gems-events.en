@@ -57,7 +57,7 @@ feature-set: Experience Manager
     + [Social Component Framework in AEM 6](archive/aem-social-component-framework-in-aem-6.md)
     + [Mobile-First Development with CQ Made Easy](archive/aem-mobile-first-development-with-cq-made-easy.md)
     + [AEM Core Components](archive/aem-core-components.md)
-    + [AEM SPA Editor](archive/jcr-content/jcr-aem-spa-editor.md)
+    + [AEM SPA Editor](archive/jcr-aem-spa-editor.md)
     + [Major Brand Portal Release and new reference implementation for Asset Share](archive/aem-brand-portal.md)
     + [Utilizing SAML in Adobe Experience Manager deployments](archive/aem-utilizing-saml-in-aem-deployments.md)
     + [AEM 6.0 Developer Mode](archive/aem-developer-mode.md)

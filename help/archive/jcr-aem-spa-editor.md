@@ -20,7 +20,7 @@ Gabriel Walt, Product Manager, Adobe
 
 **Slide Presentation**
 
-[Get File](/help/gems/assets/aem-spa-editor.pdf)
+[Get File](assets/aem-spa-editor.pdf)
 
 ## Resources {#resources}
 
