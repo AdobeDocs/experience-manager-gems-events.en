@@ -140,7 +140,7 @@ feature-set: Experience Manager
   + [title](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
   + [title](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
   + [title](/help/gems2013/aem-ecommerce-integration-framework.md)
-  + [title](/help/gems2013/aem-hybris-ecommerce-framework-integration.md)
+  + [hybris/AEM 5.6 eCommerce framework integration](/help/gems2013/aem-hybris-ecommerce-framework-integration.md)
   + [title](/help/gems2013/aem-job-handling-and-offloading.md)
   + [title](/help/gems2013/aem-launches.md)
   + [title](/help/gems2013/aem-media-publisher-deep-dive.md)
