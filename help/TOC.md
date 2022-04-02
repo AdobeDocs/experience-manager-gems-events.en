@@ -8,8 +8,8 @@ feature-set: Experience Manager
 
 + [Overview](./overview.md)
 + [2022]{#gems2022}
-    + [Build Sites Faster with AEM Headless and App Builder](/help/gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-    + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](/help/gems2022/aemcloudservice-2021-review-and-outlook.md)
+  + [Build Sites Faster with AEM Headless and App Builder](/help/gems2022/build-sites-faster-with-headless-and-appbuilder.md)
+  + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](/help/gems2022/aemcloudservice-2021-review-and-outlook.md)
 + [2021]{#gems2021}
 + [2020]{#gems2020}
   + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](/help/gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
@@ -137,18 +137,18 @@ feature-set: Experience Manager
   + [title](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
   + [title](/help/gems2014/aem-user-interface-customization-for-aem6.md)
 + [2013]{#gems2013}
-  + [title](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
-  + [title](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
-  + [title](/help/gems2013/aem-ecommerce-integration-framework.md)
+  + [Architecture of the AEM 5.6 Platform](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
+  + [CQ/AEM 5.6 Troubleshooting](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
+  + [eCommerce Integration Framework ](/help/gems2013/aem-ecommerce-integration-framework.md)
   + [hybris/AEM 5.6 eCommerce framework integration](/help/gems2013/aem-hybris-ecommerce-framework-integration.md)
-  + [title](/help/gems2013/aem-job-handling-and-offloading.md)
-  + [title](/help/gems2013/aem-launches.md)
-  + [title](/help/gems2013/aem-media-publisher-deep-dive.md)
-  + [title](/help/gems2013/aem-metadata-management-in-aem-dam.md)
-  + [title](/help/gems2013/aem-mobile-first-development-with-cq-made-easy.md)
-  + [title](/help/gems2013/aem-msm-and-translation-best-practices.md)
-  + [title](/help/gems2013/aem-streamlining-multilingual-content-process.md)
-  + [title](/help/gems2013/aem-upgrade-mechanisms.md)
+  + [Introduction of Job Handling and Offloading in AEM 5.6.1.](/help/gems2013/aem-job-handling-and-offloading.md)
+  + [Launches - concurrent preparation of multiple versions of a website (AEM 5.6)](/help/gems2013/aem-launches.md)
+  + [AEM 5.6 Media Publisher Deep Dive ](/help/gems2013/aem-media-publisher-deep-dive.md)
+  + [Metadata Management in AEM DAM](/help/gems2013/aem-metadata-management-in-aem-dam.md)
+  + [Mobile-First Development with CQ Made Easy](/help/gems2013/aem-mobile-first-development-with-cq-made-easy.md)
+  + [MSM and Translation - Best Practices](/help/gems2013/aem-msm-and-translation-best-practices.md)
+  + [Streamlining multilingual content process](/help/gems2013/aem-streamlining-multilingual-content-process.md)
+  + [AEM 5.6 upgrade mechanisms ](/help/gems2013/aem-upgrade-mechanisms.md)
 
 <!---
 + [Archive]{#archive}
