@@ -8,21 +8,16 @@ feature-set: Experience Manager
 
 + [Overview](./overview.md)
 + [2022]{#gems2022}
-  + [Build Sites Faster with AEM Headless and App Builder](/help/gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-  + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](/help/gems2022/aemcloudservice-2021-review-and-outlook.md)
-<!--- + [2021]{#gems2021} --->
+  + [Build Sites Faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
+  + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + [2020]{#gems2020}
-  + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](/help/gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
+  + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
   + [Principles of the new AEM Engineering Operations Framework](gems2020/granite-aem-engineering-framework.md)
 + [2019]{#gems2019}
   + [Adobe Experience Manager 6.5 Sites - What's New](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
   + [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/aem-rich-text-editor-rte-deep-dive.md)
   + [AEM Rich Text Editor (RTE) Deep Dive](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
-  <!---+ [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/contexthub-deep-dive-test.md)
-  + [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/contexthub-deep-dive-test1.md)--->
   + [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/contexthub-deep-dive.md)
-  <!---+ [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/contexthub-deep-dive1.md)
-  + [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/contexthub-deep-dive3.md)--->
   + [Creating Headless Omnichannel Experiences with AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
   + [Introducing the AEM Modernization Suite](gems2019/introducing-the-aem-modernization-suite.md)
   + [Leveraging author-publish for AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
