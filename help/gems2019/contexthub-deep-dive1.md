@@ -4,6 +4,7 @@ description: This Gems sessions is dedicated to have a closer look on implementa
 uuid: 1c6340cc-24b7-4a95-a7c6-d9cec757dc23
 discoiquuid: 8dc96fdc-b1e7-4f86-8c0e-9cbc0565b3d9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+hidefromtoc: yes
 ---
 
 # Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}

@@ -5,6 +5,7 @@ page-status-flag: never-activated
 uuid: 315f3a94-2d04-4170-9d20-24e457a04d01
 discoiquuid: f85344d5-b3ff-4b65-8a44-5e8bddfa5be5
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+hidefromtoc: yes
 ---
 
 # Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
