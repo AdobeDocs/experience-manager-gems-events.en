@@ -4,9 +4,9 @@ user-guide-description: Gems on Adobe Experience Manager is a series of technica
 feature-set: Experience Manager
 ---
 
-# Experience Manager GEMS Events {#using}
+# Experience Manager GEMS Events {#gems}
 
-+ Overview(./overview.md)
++ [Overview](overview.md)
 + 2022{#gems2022}
   + [Build Sites Faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
   + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
