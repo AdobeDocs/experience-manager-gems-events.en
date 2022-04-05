@@ -4,8 +4,8 @@ description: Learn how AEM DAM manages the metadata of assets. We will cover the
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
+exl-id: dc3b60a4-2aec-46d5-9129-d8cbb2a14d92
 ---
-
 # Metadata Management in AEM DAM{#metadata-management-in-aem-dam}
 
 Learn how AEM DAM manages the metadata of assets. We will cover the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor which has been introduced in the latest DAM Feature Pack will be presented as well.
@@ -26,5 +26,4 @@ Ugo Cei, Developer Technical Marketing Manager, Adobe
 
 [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
 
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)  
-
+[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

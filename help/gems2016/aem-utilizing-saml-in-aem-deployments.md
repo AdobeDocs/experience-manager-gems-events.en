@@ -4,8 +4,8 @@ description: Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Seni
 uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
+exl-id: 5a1ee63b-ca8c-408e-996e-d802e84b8cc7
 ---
-
 # Utilizing SAML in Adobe Experience Manager deployments{#utilizing-saml-in-adobe-experience-manager-deployments}
 
 Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer, of Adobe for a review of using Security Assertion Markup Language (SAML) with your Experience Manager deployments. SAML is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.  SAML is a product of the OASIS Security Services Technical Committee.
@@ -31,4 +31,3 @@ Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer,
 * [[SAMLTech] Security Assertion Markup Language (SAML) V2.0 Technical Overview](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [SAML V2.0 Executive Overview](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
-

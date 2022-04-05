@@ -5,8 +5,8 @@ uuid: 9590c290-2979-4a88-a526-6aa51a66aebd
 discoiquuid: 10843e21-b65b-494c-9cb2-77b842988f63
 internal: true
 targetaudience: target-audience advanced
+exl-id: 120b5487-0ca6-4bc1-b163-56cc5a6e4388
 ---
-
 # HTTP API Framework{#http-api-framework}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19685/?quality=9)

@@ -4,8 +4,8 @@ description: The Commerce Integration Framework (CIF) is an AEM add-on that acce
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
+exl-id: 39a5929f-f973-4288-b72e-6eece22bdb80
 ---
-
 # IBM WebSphere Commerce Integration for AEM{#ibm-websphere-commerce-integration-for-aem}
 
 The Commerce Integration Framework (CIF) is an AEM add-on that accelerates any eCommerce integration project by providing documented integration patterns, reference code and components. The IBM WebSphere integration package is a specialized CIF reference implementation for IBM's WebSphere eCommerce platform. In this session Martin Buergi and Markus Haack guides you through the different integration features with deep-dives into the code. You will learn how to customize, extend and test your integration.

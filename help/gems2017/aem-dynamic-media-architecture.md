@@ -1,11 +1,11 @@
 ---
 title: AEM Dynamic Media 6.3 Architecture
-description: "Join Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing to learn about  the 6.3 Dynamic Media release including: •  Overview of Dynamic Media including new capabilities • Architecture of Dynamic Media • Troubleshooting tips and tricks"
+description: 'Join Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing to learn about  the 6.3 Dynamic Media release including: •  Overview of Dynamic Media including new capabilities • Architecture of Dynamic Media • Troubleshooting tips and tricks'
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
+exl-id: 7bac6380-ae1a-49da-bbef-86f17912c0b9
 ---
-
 # AEM Dynamic Media 6.3 Architecture{#aem-dynamic-media-architecture}
 
 Join Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing to learn about  the 6.3 Dynamic Media release including:

@@ -5,8 +5,8 @@ uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
+exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
 ---
-
 # Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
 This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
@@ -33,4 +33,3 @@ Attendees will be able to better understand how to use DAM in their environments
 * [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
 * [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
-

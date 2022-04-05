@@ -4,8 +4,8 @@ description: Presentation of the evolution of the architecture of the AEM Applic
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
+exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
 ---
-
 # Architecture of the AEM 5.6 Platform{#architecture-of-the-aem-platform}
 
 Presentation of the evolution of the architecture of the AEM Application Platform. Since the first release of Communiqué 1 until the most recent launch of AEM 5.6 the application underwent several massive changes to become the versatile and extensible application platform it is now.
@@ -33,4 +33,3 @@ Felix Meschberger, Principal Scientist, Adobe
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
-

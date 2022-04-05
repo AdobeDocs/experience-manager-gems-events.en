@@ -5,8 +5,8 @@ uuid: f4105d16-f6e3-4a67-b0c4-bc7dfc527276
 discoiquuid: 62d53241-5649-4c02-8987-862b5467dc6e
 internal: true
 targetaudience: target-audience advanced
+exl-id: c6a8d797-a92d-4861-bc8c-0f5725fb88ad
 ---
-
 # Snapshotting and Restoring AEM using Docker and CRIU{#snapshotting-and-restoring-aem-using-docker-and-criu}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19696/?quality=9)
@@ -27,4 +27,3 @@ Docker is not a supported Platform. What this means is that there is no support 
 * [Docker Experimental (pre 1.10) with Checkpoint/Restore using CRIU](https://github.com/boucher/docker/releases/tag/v1.10_2-16-16-experimental) ``
 
 * [Diploma Thesis](https://drive.google.com/file/d/0Bz4oADNI4d8-ZEpEWGVBYlgtMEU/view?pref=2&pli=1)
-

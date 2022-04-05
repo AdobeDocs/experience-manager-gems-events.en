@@ -4,8 +4,8 @@ description: Adobe Experience Manager enables you to localize user-generated and
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
+exl-id: 860add68-20f4-48ea-9e92-0c75b8657f1a
 ---
-
 # Machine Translation in AEM{#machine-translation-in-aem}
 
 Adobe Experience Manager enables you to localize user-generated and authored content with fully integrated and customized machine translation functionality in more than 45+ languages using Microsoft Translator. In this session you will learn how AEM and Microsoft Translator deliver machine translation to enable you to extend the reach of your content, increase time to market for content, optimize costs, and increase discoverability by users through Search Engine Optimization resulting in better use of resources and increased ROI. Watch demos on how to enable the service within AEM, localize content, and discover how customization tools from Microsoft Translator enable you to build your own translation system using your preferred terminology and style specific to your industry, linguistic, domain, or organizational needs.

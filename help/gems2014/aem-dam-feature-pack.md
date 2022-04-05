@@ -4,8 +4,8 @@ description: The DAM FP2 for AEM 5.6.1 is focused on leveraging the Creative Pro
 uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
+exl-id: 6290c4f2-44c3-4407-93b3-60e37a21a026
 ---
-
 # How to get the most out of your DAM Feature Pack{#how-to-get-the-most-out-of-your-dam-feature-pack}
 
 The DAM FP2 for AEM 5.6.1 is focused on leveraging the Creative Projects functionality to offer the AEM users a unique way of managing their assets sourcing. The session will cover the step-by-step working of a creative project workflow for:

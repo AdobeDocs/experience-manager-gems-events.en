@@ -1,12 +1,12 @@
 ---
 title: AEM Cumulative Fix Pack process
-description: "Starting with AEM 6.1 Service Pack 2, Adobe has introduced a single delivery model for releasing fixes. Instead of releasing hot fixes for single issues, Cumulative Fix Pack (CFP) will be released every month, which is an aggregator content package for multiple hot fixes. CFPs will have the following advantages over single hotfix releases:      Increased quality assurance     Simplified installation (User installs a CFP as a single package that has no dependencies, except for the latest service pack)     Cumulative in nature (for example, CFP 3 contains fixes for CFP2 and CFP1)"
+description: 'Starting with AEM 6.1 Service Pack 2, Adobe has introduced a single delivery model for releasing fixes. Instead of releasing hot fixes for single issues, Cumulative Fix Pack (CFP) will be released every month, which is an aggregator content package for multiple hot fixes. CFPs will have the following advantages over single hotfix releases:      Increased quality assurance     Simplified installation (User installs a CFP as a single package that has no dependencies, except for the latest service pack)     Cumulative in nature (for example, CFP 3 contains fixes for CFP2 and CFP1)'
 uuid: 2807e848-07b3-4a9b-b5ed-96e186d988a3
 discoiquuid: a9d1f8bf-48cb-405e-bb43-8c497c99a28e
 internal: true
 targetaudience: target-audience advanced
+exl-id: 69bc0608-38b1-4de9-8551-bdd75bd0214f
 ---
-
 # AEM Cumulative Fix Pack process{#aem-cumulative-fix-pack-process}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19681/?quality=9)

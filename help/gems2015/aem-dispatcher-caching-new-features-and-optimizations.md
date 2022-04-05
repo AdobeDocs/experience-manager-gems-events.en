@@ -4,8 +4,8 @@ description: To maximize your AEM experience, it is important that you fine tune
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
+exl-id: 06da2cc5-9cf3-4b4a-bff1-9f2ff75f27da
 ---
-
 # Dispatcher Caching - New Features and Optimizations{#dispatcher-caching-new-features-and-optimizations}
 
 To maximize your AEM experience, it is important that you fine tune your AEM Dispatcher cache.  This session will teach you about the newest features in AEM dispatcher and some ways you can optimize your cache.  The session will cover new features added between versions 4.1.0 and 4.1.9.

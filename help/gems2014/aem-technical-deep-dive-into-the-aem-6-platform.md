@@ -1,11 +1,11 @@
 ---
 title: Technical Deep Dive into the AEM 6 Platform
-description: "AEM6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: • content migration • backwards compatibility • key deployment scenarios • custom search indexes"
+description: 'AEM6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: • content migration • backwards compatibility • key deployment scenarios • custom search indexes'
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
+exl-id: eb04fd9f-acc5-4ef2-afee-806d00b60326
 ---
-
 # Technical Deep Dive into the AEM 6 Platform{#technical-deep-dive-into-the-aem-platform}
 
 AEM6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: 
@@ -32,4 +32,3 @@ Jukka Zitting, Senior Developer, Adobe
 * [AEM Upgrade Documentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
 * [Presentation from ApacheCon "Oak, the architecture of Apache Jackrabbit 3"](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
-

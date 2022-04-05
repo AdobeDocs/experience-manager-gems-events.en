@@ -4,8 +4,8 @@ description: Methodology to integrate sonarqube analysis to Javascript projects 
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
+exl-id: 7b3b0418-c6a5-42f8-9274-ad275235fd88
 ---
-
 # Track quality metrics of your Javascript project{#track-quality-metrics-of-your-javascript-project}
 
 Methodology to integrate sonarqube analysis to Javascript projects and thus get access to:

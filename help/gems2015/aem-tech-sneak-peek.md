@@ -4,8 +4,8 @@ description: Get a peek into what we’ve been working on for the next generatio
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
+exl-id: 4724b377-0954-49f2-8003-59861284209e
 ---
-
 # AEM Tech Sneak Peek{#aem-tech-sneak-peek}
 
 Get a peek into what we’ve been working on for the next generation of Adobe Experience Manager in a technical talk.

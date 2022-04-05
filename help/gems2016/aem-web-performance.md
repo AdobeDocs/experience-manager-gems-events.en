@@ -1,11 +1,11 @@
 ---
 title: AEM Web Performance
-description: "Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead"
+description: 'Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead'
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
+exl-id: 0b7c8267-f831-4c48-bde3-90be787a75b6
 ---
-
 # AEM Web Performance{#aem-web-performance}
 
 Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead

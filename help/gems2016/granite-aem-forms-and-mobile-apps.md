@@ -5,8 +5,8 @@ uuid: 8f04d917-37d5-4cb4-8ce9-b4cab40fa2aa
 discoiquuid: d7c098be-f415-47ed-aabd-f7396aab5c1f
 internal: true
 targetaudience: target-audience advanced
+exl-id: 173bbe8c-d9c6-4988-9734-0d7677eaede8
 ---
-
 # AEM Forms and Mobile Apps{#aem-forms-and-mobile-apps}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19691/?quality=9)
@@ -19,4 +19,4 @@ Steve Monroe, Senior Manager, Enterprise Solutions
 
 **Adobe Chat Expert: **
 
-Girish Bedekar, AEM Forms Solution Evangelist, Adobe 
+Girish Bedekar, AEM Forms Solution Evangelist, Adobe

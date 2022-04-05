@@ -4,8 +4,8 @@ description: From Unit Testing to Integration Test of an Experience Manager Appl
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
+exl-id: 98f27ea1-705d-4e8e-a5f0-a6561b879545
 ---
-
 # Tools to use for testing Adobe Experience Manager applications{#tools-to-use-for-testing-adobe-experience-manager-applications}
 
 From Unit Testing to Integration Test of an Experience Manager Application Automated testing is indispensable for developing any application. This presentation walks through the various tools for testing Java code starting with the basics of unit testing up to functional and integration testing. Learn how to easily add tests in the most effective way to your code base, regardless of whether you want to test a simple utility method, some OSGi service, or an HTTP endpoint.
