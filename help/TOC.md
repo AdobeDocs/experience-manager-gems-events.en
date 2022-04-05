@@ -6,14 +6,14 @@ feature-set: Experience Manager
 
 # Experience Manager GEMS Events {#using}
 
-+ [Overview](./overview.md)
-+ [2022]{#gems2022}
++ Overview(./overview.md)
++ 2022{#gems2022}
   + [Build Sites Faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
   + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ [2020]{#gems2020}
++ 2020{#gems2020}
   + [AEM 6.5 Ready for the World - Translation Integration & Best Practices](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
   + [Principles of the new AEM Engineering Operations Framework](gems2020/granite-aem-engineering-framework.md)
-+ [2019]{#gems2019}
++ 2019{#gems2019}
   + [Adobe Experience Manager 6.5 Sites - What's New](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
   + [Deep Dive on implementation details of stores, modules and segments in ContextHub](gems2019/aem-rich-text-editor-rte-deep-dive.md)
   + [AEM Rich Text Editor (RTE) Deep Dive](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
@@ -21,7 +21,7 @@ feature-set: Experience Manager
   + [Creating Headless Omnichannel Experiences with AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
   + [Introducing the AEM Modernization Suite](gems2019/introducing-the-aem-modernization-suite.md)
   + [Leveraging author-publish for AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ [2018]{#gems2018}
++ 2018{#gems2018}
   + [A Blank registration template](gems2018/a-blank-registration-template.md)
   + ["Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"](gems2018/adobe-cloud-platform-the-heart-of-experience-cloud.md)
   + [Deep Dive into Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
@@ -59,7 +59,7 @@ feature-set: Experience Manager
   + [SPA Editor SDK Deep Dive - Part 1 - React ](gems2018/spa-editor-sdk-deep-dive-react.md)
   + [SPA Editor SDK Deep Dive - Part 2 - Angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
   + [Using OSGi R7 in AEM](gems2018/using-osgi-r7-in-aem.md)
-+ [2017]{#gems2017}
++ 2017{#gems2017}
   + [Major Brand Portal Release and new reference implementation for Asset Share](/help/gems2017/aem-brand-portal.md)
   + [Building Health Checks for AEM](/help/gems2017/aem-building-health-checks-for-aem.md)
   + [Developing OSGi Bundles and Services for AEM](/help/gems2017/aem-developing-osgi-bundles-services-for-aem.md)
@@ -81,7 +81,7 @@ feature-set: Experience Manager
   + [AEM 2016/2017 program and operation](gems2017/granite-program-and-operation.md)
   + [AEM Upgrade to major version – Backwards compatibility continued](gems2017/granite-upgrade-major-version-pattern-detector-testing.md)
   + [AEM Upgrade to major version - Backwards compatibility](gems2017/granite-upgrade-to-major-version-backwards-compatibility.md)
-+ [2016]{#gems2016}
++ 2016{#gems2016}
   + [Configuring the DAM for Enterprise](/help/gems2016/aem-configuring-dam-for-enterprise.md)
   + [Introduction to AEM Screens](/help/gems2016/aem-introduction-to-aem-screens.md)
   + [Managing your content with the template editor of Adobe Experience Manager](/help/gems2016/aem-managing-content-with-template-editor.md)
@@ -97,7 +97,7 @@ feature-set: Experience Manager
   + [HTTP API Framework](gems2016/granite-http-api-framework.md)
   + [Project evergreen and how to un-ring a bell](gems2016/granite-project-evergreen.md)
   + [Snapshotting and Restoring AEM using Docker and CRIU](gems2016/granite-snapshotting-and-restoring-aem.md)
-+ [2015]{#gems2015}
++ 2015{#gems2015}
   + [AEM 6.1 Translation Integration & Best Practices](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
   + [Creating online Communities with AEM 6.1](/help/gems2015/aem-creating-online-communities-with-aem-6-1.md)
   + [Customizing Dialog Fields in Touch UI](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
@@ -111,7 +111,7 @@ feature-set: Experience Manager
   + [AEM Tech Sneak Peek](/help/gems2015/aem-tech-sneak-peek.md)
   + [Tips and tricks for AEM Sites Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
   + [Track quality metrics of your Javascript project](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ [2014]{#gems2014}
++ 2014{#gems2014}
   + [title](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
   + [How to get the most out of your DAM Feature Pack](/help/gems2014/aem-dam-feature-pack.md)
   + [Delivering Managed Content to your Native Apps](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -128,7 +128,7 @@ feature-set: Experience Manager
   + [Technical Deep Dive into the AEM 6 Platform](/help/gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
   + [Technical Overview of the AEM 6 Platform](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
   + [User Interface Customization for AEM 6](/help/gems2014/aem-user-interface-customization-for-aem6.md)
-+ [2013]{#gems2013}
++ 2013{#gems2013}
   + [Architecture of the AEM 5.6 Platform](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
   + [CQ/AEM 5.6 Troubleshooting](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
   + [eCommerce Integration Framework ](/help/gems2013/aem-ecommerce-integration-framework.md)
