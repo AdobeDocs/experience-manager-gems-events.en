@@ -24,4 +24,3 @@ Determining if an AEM instance is healthy is not a simple task. This session wil
 
 * [AEM Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Sling Documentation](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

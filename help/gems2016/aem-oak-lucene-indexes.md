@@ -31,4 +31,3 @@ We describe the features of Oak Lucene indexes and how they can be used to get y
 
 * [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
 * [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

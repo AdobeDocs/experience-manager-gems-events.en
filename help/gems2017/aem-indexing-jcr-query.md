@@ -40,4 +40,6 @@ Oak Documentation
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)
 >* [Troubleshooting Sling Content Distribution](aem-troubleshooting-sling.md)
->* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+<!-- 
+>* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+-->

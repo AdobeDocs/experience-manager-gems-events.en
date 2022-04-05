@@ -31,4 +31,3 @@ David Bosschaert, Senior Software Engineer, Adobe
 
 * [OSGi in Action (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
 * [OSGi Components](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

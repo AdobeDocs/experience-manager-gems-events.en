@@ -31,7 +31,6 @@ feature-set: Experience Manager
   + [Introduction to ContextHub in AEM 6.4](gems2018/aem-intro-to-contexthub.md)
   + [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](gems2018/aem-machine-learning.md)
   + [Maintaining Open Source While Maintaining Your Sanity](gems2018/aem-maintaining-open-source.md)
-  + [AEM Query and Index Troubleshooting](gems2018/aem-query-and-index-troubleshooting.md)
   + [AEM Query and Index Troubleshooting (continued)](gems2018/aem-query-and-index-troubleshooting2.md)
   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
   + [AEM SPA Editor](gems2018/jcr-aem-spa-editor.md)

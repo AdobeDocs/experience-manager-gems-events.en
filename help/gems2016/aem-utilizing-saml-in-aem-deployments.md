@@ -30,4 +30,3 @@ Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer,
 * [[SAMLBind] Bindings for the OASIS Security Assertion Markup Language (SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
 * [[SAMLTech] Security Assertion Markup Language (SAML) V2.0 Technical Overview](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [SAML V2.0 Executive Overview](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

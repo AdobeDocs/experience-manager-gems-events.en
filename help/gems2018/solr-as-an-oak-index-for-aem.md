@@ -30,6 +30,8 @@ Date: 07/18/2018
 >[!MORELIKETHIS]
 >
 >* [Adobe I/O Events - Analytics Triggers](aem-analytics-triggers.md)
->* [Adobe I/O Events - Analytics Triggers](aem-analytics-triggers.md)
->* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html)
 >* [Unlocking More Powerful Asset Analytics With AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+
+<!-- wrong link, needs to be replaced. removed for now:
+>* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
+-->

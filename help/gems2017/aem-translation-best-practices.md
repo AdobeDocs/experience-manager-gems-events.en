@@ -28,5 +28,3 @@ Mathias Siegel, Sr Product Manager, AEM Sites, Adobe
 * [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html  )
 * [Managing Multilingual Assets](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
 * [Translation Best Practices Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
-

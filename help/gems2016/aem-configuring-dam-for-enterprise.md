@@ -32,4 +32,3 @@ Attendees will be able to better understand how to use DAM in their environments
 * [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
 * [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
 * [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
