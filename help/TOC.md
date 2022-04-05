@@ -1,6 +1,7 @@
 ---
 user-guide-title: Adobe Experience Manager GEMS Events
 user-guide-description: Gems on Adobe Experience Manager is a series of technical deep dives delivered by Adobe experts.
+breadcrumb-title: AEM GEMs Events
 feature-set: Experience Manager
 ---
 
@@ -23,10 +24,10 @@ feature-set: Experience Manager
   + [Leveraging author-publish for AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
 + 2018{#gems2018}
   + [A Blank registration template](gems2018/a-blank-registration-template.md)
-  + ["Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"](gems2018/adobe-cloud-platform-the-heart-of-experience-cloud.md)
+  + [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](gems2018/adobe-cloud-platform-the-heart-of-experience-cloud.md)
   + [Deep Dive into Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
   + [Adobe Experience Platform - The Heart of Experience Cloud](gems2018/aem-acp.md)
-  + ["Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events"](gems2018/aem-adobe-io.md)
+  + [Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events](gems2018/aem-adobe-io.md)
   + [Adobe I/O Events - Analytics Triggers](gems2018/aem-analytics-triggers.md)
   + [The Digital Asset Explosion & AEM Assets](gems2018/aem-asset-explosion.md)
   + [Experiments in AEM Author Scalability](gems2018/aem-author-scalability.md)
@@ -35,17 +36,17 @@ feature-set: Experience Manager
   + [Deep Dive into Adobe Experience Manager 6.4](gems2018/aem-deep-dive-6-4.md)
   + [The Digital Asset Explosion & AEM Assets](gems2018/aem-digital-asset-explosion.md)
   + [Introduction to ContextHub in AEM 6.4](gems2018/aem-intro-to-contexthub.md)
-  + ["Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"](gems2018/aem-machine-learning.md)
+  + [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](gems2018/aem-machine-learning.md)
   + [Maintaining Open Source While Maintaining Your Sanity](gems2018/aem-maintaining-open-source.md)
   + [AEM Query and Index Troubleshooting](gems2018/aem-query-and-index-troubleshooting.md)
   + [AEM Query and Index Troubleshooting (continued)](gems2018/aem-query-and-index-troubleshooting2.md)
   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
   + [Deep Dive test](gems2018/deep-dive-into-adobe-experience-manager-6-4.md)
   + [The Digital Asset Explosion & AEM Assets](gems2018/deep-dive-into-adobe-experience-manager-6-41.md)
-  + ["Real-time and lightweight: build event-driven integrations with AEM using I/O Events"](gems2018/event-driven-integrations-with-aem-using-io-events.md)
-  + ["AEM Managed Services IMS Integration: Architecture and Operation"](gems2018/granite-ams-ms-ims-integration-1.md)
+  + [Real-time and lightweight: build event-driven integrations with AEM using I/O Events](gems2018/event-driven-integrations-with-aem-using-io-events.md)
+  + [AEM Managed Services IMS Integration: Architecture and Operation](gems2018/granite-ams-ms-ims-integration-1.md)
   + [Configuring AEM deployments for Adobe Asset Link](gems2018/granite-asset-link.md)
-  + ["Cognifide's Zen Garden: What? Why? When?"](gems2018/granite-cognifide-zen-garden.md)
+  + [Cognifide's Zen Garden: What? Why? When?](gems2018/granite-cognifide-zen-garden.md)
   + [AEM Managed Services IMS Integration - End to End Demo](gems2018/granite-ims-demo.md)
   + [Mapping AEM - automatic analysis of AEM and its usage](gems2018/granite-mapping-aem.md)
   + [Metrics reporter in AEM](gems2018/granite-metrics-reporter.md)
@@ -53,10 +54,10 @@ feature-set: Experience Manager
   + [How to improve your patent submission](gems2018/granite-patent-submission.md)
   + [Best Practices for Test Automation with Selenium](gems2018/granite-selenium.md)
   + [AEM SPA Editor](gems2018/jcr-aem-spa-editor.md)
-  + ["Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"](gems2018/machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more.md)
+  + [Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more](gems2018/machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more.md)
   + [Maintaining Open Source While Maintaining Your Sanity](gems2018/maintaining-open-source-while-maintaining-your-sanity.md)
   + [Solr as an Oak index for AEM](gems2018/solr-as-an-oak-index-for-aem.md)
-  + [SPA Editor SDK Deep Dive - Part 1 - React ](gems2018/spa-editor-sdk-deep-dive-react.md)
+  + [SPA Editor SDK Deep Dive - Part 1 - React](gems2018/spa-editor-sdk-deep-dive-react.md)
   + [SPA Editor SDK Deep Dive - Part 2 - Angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
   + [Using OSGi R7 in AEM](gems2018/using-osgi-r7-in-aem.md)
 + 2017{#gems2017}
@@ -70,7 +71,7 @@ feature-set: Experience Manager
   + [Managing AEM DataStore](/help/gems2017/aem-managing-aem-datastore.md)
   + [Search forms made easy with the AEM querybuilder](/help/gems2017/aem-search-forms-using-querybuilder.md)
   + [AEM Sustenance - Best Practices for deploying AEM Maintenance Releases](/help/gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
-  + ["Into the tar pit: a TarMK deep dive"](/help/gems2017/aem-tarmk-deepdive.md)
+  + [Into the tar pit: a TarMK deep dive](/help/gems2017/aem-tarmk-deepdive.md)
   + [Toughday2 - A new and improved stress testing and benchmarking tool](/help/gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
   + [AEM 6.3 Ready for the World - Translation Integration & Best Practices](/help/gems2017/aem-translation-best-practices.md)
   + [Troubleshooting AEM Replication](/help/gems2017/aem-troubleshooting-aem-replication.md)
@@ -79,7 +80,7 @@ feature-set: Experience Manager
   + [Content Package Validation Improvements](gems2017/granite-content-package-validation-improvements.md)
   + [Evergreen Sprouts - Make it green from the start](gems2017/granite-evergreen-sprouts-make-it-green-from-the-start.md)
   + [AEM 2016/2017 program and operation](gems2017/granite-program-and-operation.md)
-  + [AEM Upgrade to major version – Backwards compatibility continued](gems2017/granite-upgrade-major-version-pattern-detector-testing.md)
+  + [AEM Upgrade to major version - Backwards compatibility continued](gems2017/granite-upgrade-major-version-pattern-detector-testing.md)
   + [AEM Upgrade to major version - Backwards compatibility](gems2017/granite-upgrade-to-major-version-backwards-compatibility.md)
 + 2016{#gems2016}
   + [Configuring the DAM for Enterprise](/help/gems2016/aem-configuring-dam-for-enterprise.md)
@@ -107,7 +108,7 @@ feature-set: Experience Manager
   + [IBM WebSphere Commerce Integration for AEM](/help/gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
   + [Inside ACS AEM Commons & Tools](/help/gems2015/aem-inside-acs-aem-commons-and-tools.md)
   + [Oak's External Login Module](/help/gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
-  + [Sonar – A key element to improve product quality](/help/gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
+  + [Sonar - A key element to improve product quality](/help/gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
   + [AEM Tech Sneak Peek](/help/gems2015/aem-tech-sneak-peek.md)
   + [Tips and tricks for AEM Sites Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
   + [Track quality metrics of your Javascript project](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
@@ -121,7 +122,7 @@ feature-set: Experience Manager
   + [Efficiently Build Reusable Components](/help/gems2014/aem-efficiently-build-reusable-components.md)
   + [Introduction to HTL](/help/gems2014/aem-introduction-to-htl.md)
   + [Machine Translation in AEM](/help/gems2014/aem-machine-translation-in-aem.md)
-  + ["AEM 6 Oak: MongoMK and Queries"](/help/gems2014/aem-oak-mongomk-and-queries.md)
+  + [AEM 6 Oak: MongoMK and Queries](/help/gems2014/aem-oak-mongomk-and-queries.md)
   + [OAuth Server functionality in AEM](/help/gems2014/aem-oauth-server-functionality-in-aem.md)
   + [SharePoint Connector - Setup and Configuration](/help/gems2014/aem-sharepoint-connector-setup-and-configuration.md)
   + [Social Component Framework in AEM 6](/help/gems2014/aem-social-component-framework-in-aem-6.md)
@@ -131,16 +132,16 @@ feature-set: Experience Manager
 + 2013{#gems2013}
   + [Architecture of the AEM 5.6 Platform](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
   + [CQ/AEM 5.6 Troubleshooting](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
-  + [eCommerce Integration Framework ](/help/gems2013/aem-ecommerce-integration-framework.md)
+  + [eCommerce Integration Framework](/help/gems2013/aem-ecommerce-integration-framework.md)
   + [hybris/AEM 5.6 eCommerce framework integration](/help/gems2013/aem-hybris-ecommerce-framework-integration.md)
   + [Introduction of Job Handling and Offloading in AEM 5.6.1.](/help/gems2013/aem-job-handling-and-offloading.md)
   + [Launches - concurrent preparation of multiple versions of a website (AEM 5.6)](/help/gems2013/aem-launches.md)
-  + [AEM 5.6 Media Publisher Deep Dive ](/help/gems2013/aem-media-publisher-deep-dive.md)
+  + [AEM 5.6 Media Publisher Deep Dive](/help/gems2013/aem-media-publisher-deep-dive.md)
   + [Metadata Management in AEM DAM](/help/gems2013/aem-metadata-management-in-aem-dam.md)
   + [Mobile-First Development with CQ Made Easy](/help/gems2013/aem-mobile-first-development-with-cq-made-easy.md)
   + [MSM and Translation - Best Practices](/help/gems2013/aem-msm-and-translation-best-practices.md)
   + [Streamlining multilingual content process](/help/gems2013/aem-streamlining-multilingual-content-process.md)
-  + [AEM 5.6 upgrade mechanisms ](/help/gems2013/aem-upgrade-mechanisms.md)
+  + [AEM 5.6 upgrade mechanisms](/help/gems2013/aem-upgrade-mechanisms.md)
 
 <!---
 + [Archive]{#archive}
