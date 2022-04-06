@@ -30,7 +30,7 @@ The webinars will be conducted regularly, including the following:
 ## Upcoming Webinar and Registration
 
 All our AEM GEMs webinars are free of charge and conducted virtually. 
-* Our next AEM GEMs webinar will be on [**How to integrate AEM & CIF framework to build a rich and immersive e-commerce experience**](help/upcomingwebinars/aem-and-cif-framework-integration.md) and will be conducted on April 27.
+* Our next AEM GEMs webinar will be on [**How to integrate AEM & CIF framework to build a rich and immersive e-commerce experience**](/help/upcomingwebinars/aem-and-cif-framework-integration.md) and will be conducted on April 27.
 * **Registration:** Please RSVP to this upcoming event via [Adobe Experience Manager User Group](https://aem-augs.adobe.com/).
 Once you registered to this user group, you will be notified about all our upcoming webinars, as well as other Adobe Experience Manager events. Please keep in mind that you will need to RSVP prior each event, and once done, you will be reminded to join.
 
