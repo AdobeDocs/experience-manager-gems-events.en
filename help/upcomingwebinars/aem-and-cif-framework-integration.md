@@ -17,7 +17,7 @@ Upcoming Webinar: Understand how Adobe’s CIF framework can be used to build a 
 >
 >* **Save the date for this upcoming webinar:** April 27th, 5pm CEST / 8am PDT / 8.30pm IST
 >* **Presenters:** Kunal Gaba, Technical Architect, Adobe  &  Vinay Kumar, Technical Architect, Adobe
->* **Registration:** Please RSVP to this webinar via [Adobe Experience Manager User Group](https://aem-augs.adobe.com/) 
+>* **Registration:** Please RSVP to this webinar via [Adobe Experience Manager User Group](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrate-aem-cif-framework-to-build-a-rich-and-immersive-e-commerce-experience/) 
 
 **High-level agenda:**
 
