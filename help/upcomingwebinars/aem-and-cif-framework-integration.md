@@ -11,13 +11,14 @@ kt: 10220
 
 # Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
 
-Upcoming Webinar: Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Commerce are seamlessly integrated using the Commerce Integration Framework (CIF). CIF enables AEM to directly access and communicate with the commerce instance using Adobe Commerce’s GraphQL APIs.
+This AEM GEMs webinar includes a presentation and demo on the following:
+Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Commerce are seamlessly integrated using the Commerce Integration Framework (CIF). CIF enables AEM to directly access and communicate with the commerce instance using Adobe Commerce’s GraphQL APIs (View the high level agenda below).
 
 >[!NOTE]
 >
->* **Save the date for this upcoming webinar:** April 27th, 5pm CEST / 8am PDT / 8.30pm IST
+>* This webinar has been conducted on April 27th. The recording will be available soon.
 >* **Presenters:** Kunal Gaba, Technical Architect, Adobe  &  Vinay Kumar, Technical Architect, Adobe
->* **Registration:** Please RSVP to this webinar via [Adobe Experience Manager User Group](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrate-aem-cif-framework-to-build-a-rich-and-immersive-e-commerce-experience/) 
+>* **Experience League Communities:** [Contextual Thread](https://adobe.ly/3jorz5r)
 
 **High-level agenda:**
 
