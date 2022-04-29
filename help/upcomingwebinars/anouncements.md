@@ -11,7 +11,7 @@ level: Intermediate
 
 ![](/help/assets/ADX_Gems.png)
 
->[!Note]
+>[!NOTE]
 >
 >* Information on upcoming sessions will follow soon.
 >* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified on upcoming webinars.
