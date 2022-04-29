@@ -18,9 +18,10 @@ In this session, we will first review the main changes to Adobe Experience Manag
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
-This session was conducted on January 25th, 2022 and presented by Bertrand de Coatpont, Director of Product Management
+This webinar was conducted on January 25th, 2022 and presented by Bertrand de Coatpont, Director of Product Management
 
 >[!MORELIKETHIS]
 >
 >* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
 >* [Corresponding Contextual Thread](https://adobe.ly/3rqbSOz)
+>* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

@@ -17,9 +17,10 @@ Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder work
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-This session was conducted on March 23rd, 2022 and presented by Duy Nguyen, Software Development Engineer
+This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Software Development Engineer
 
 >[!MORELIKETHIS]
 >
 >* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
 >* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
+>* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

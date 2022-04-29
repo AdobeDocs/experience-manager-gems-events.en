@@ -9,8 +9,9 @@ feature-set: Experience Manager
 
 + [Overview](overview.md)
 + Upcoming Webinars{#upcomingwebinars}
-  + [Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](upcomingwebinars/aem-and-cif-framework-integration.md)
+  + [Announcement will follow soon](upcomingwebinars/anouncements.md)
 + 2022{#gems2022}
+  + [Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](gems2022/aem-and-cif-framework-integration.md)
   + [Build Sites Faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
   + [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020{#gems2020}
