@@ -1,11 +1,11 @@
 ---
-user-guide-title: Adobe Experience Manager GEMS Events
-user-guide-description: Gems on Adobe Experience Manager is a series of technical deep dives delivered by Adobe experts.
-breadcrumb-title: AEM GEMs Events
+user-guide-title: Adobe Experience Manager GEMS events
+user-guide-description: Learn about AEM Gems, a series of technical deep dives delivered by Adobe Experience Manager experts.
+breadcrumb-title: AEM GEMs events
 feature-set: Experience Manager
 ---
 
-# Experience Manager GEMS Events {#gems}
+# Experience Manager GEMS events {#gems}
 
 + [Overview](overview.md)
 + Upcoming Webinars{#upcomingwebinars}
@@ -74,7 +74,7 @@ feature-set: Experience Manager
   + [Customizing Dialog Fields in Touch UI](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
   + [Deep dive into AEM upgrade process](/help/gems2015/aem-deep-dive-into-aem-upgrade-process.md)
   + [Dispatcher Caching - New Features and Optimizations](/help/gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
-  + [AEM Forms Feature Pack 1 introduction and technical samples](/help/gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
+  + [AEM [!DNL Forms] Feature Pack 1 introduction and technical samples](/help/gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
   + [IBM WebSphere Commerce Integration for AEM](/help/gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
   + [Inside ACS AEM Commons & Tools](/help/gems2015/aem-inside-acs-aem-commons-and-tools.md)
   + [Oak's External Login Module](/help/gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
@@ -164,7 +164,7 @@ feature-set: Experience Manager
     + [Major Brand Portal Release and new reference implementation for Asset Share](archive/aem-brand-portal.md)
     + [Utilizing SAML in Adobe Experience Manager deployments](archive/aem-utilizing-saml-in-aem-deployments.md)
     + [AEM 6.0 Developer Mode](archive/aem-developer-mode.md)
-    + [AEM Forms Feature Pack 1 introduction and technical samples](archive/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
+    + [AEM [!DNL Forms] Feature Pack 1 introduction and technical samples](archive/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
     + [CQ/AEM 5.6 Troubleshooting](archive/aem-cq-aem-5-6-troubleshooting.md)
     + [AEM Dynamic Media 6.3 Architecture](archive/aem-dynamic-media-architecture.md)
     + [Inside ACS AEM Commons & Tools](archive/aem-inside-acs-aem-commons-and-tools.md)
