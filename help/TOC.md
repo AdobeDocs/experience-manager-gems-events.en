@@ -36,7 +36,6 @@ feature-set: Experience Manager
   + [Maintaining Open Source While Maintaining Your Sanity](gems2018/aem-maintaining-open-source.md)
   + [AEM Query and Index Troubleshooting (continued)](gems2018/aem-query-and-index-troubleshooting2.md)
   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
-  + [AEM SPA Editor](gems2018/jcr-aem-spa-editor.md)
   + [Solr as an Oak index for AEM](gems2018/solr-as-an-oak-index-for-aem.md)
   + [SPA Editor SDK Deep Dive - Part 1 - React](gems2018/spa-editor-sdk-deep-dive-react.md)
   + [SPA Editor SDK Deep Dive - Part 2 - Angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
