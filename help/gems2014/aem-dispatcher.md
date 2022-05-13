@@ -26,8 +26,6 @@ Dominique Pfister, Senior Computer Scientist, Adobe
 
 [More on Dispatcher Cache](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Related AEM GEM session](https://docs.adobe.com/ddc/en/gems/dispatcher)
-
 [Abusing JSONP with Rosetta Flash](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
 [More Info](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)

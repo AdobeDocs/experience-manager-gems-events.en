@@ -31,4 +31,3 @@ Jukka Zitting, Senior Developer, Adobe
 
 * [AEM Upgrade Documentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
 * [Presentation from ApacheCon "Oak, the architecture of Apache Jackrabbit 3"](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
