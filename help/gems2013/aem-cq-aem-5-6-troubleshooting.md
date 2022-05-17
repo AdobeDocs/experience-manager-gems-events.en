@@ -25,5 +25,3 @@ Thierry Yge, Senior Support Engineer, Adobe
 ## Related Links {#related-links}
 
 [Documentation](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)
-
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

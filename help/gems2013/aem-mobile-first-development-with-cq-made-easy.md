@@ -21,5 +21,3 @@ Bruce Lefebvre, Computer Scientist, Adobe
 ## Related Links {#related-links}
 
 [Presenter Slides and Resources](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
-
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

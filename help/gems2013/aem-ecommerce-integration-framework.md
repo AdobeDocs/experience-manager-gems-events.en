@@ -25,5 +25,3 @@ Paolo Mottadelli, Sr. Technical Marketing Mgr.
 [Demo Recording](https://vimeo.com/62251523)
 
 [GitHub with Sample Code](https://github.com/paolomoz/cq-commerce-impl-sample)
-
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

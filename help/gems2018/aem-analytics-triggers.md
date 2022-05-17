@@ -29,7 +29,6 @@ Sarah Xu, Developer Evangelist, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Adobe I/O Events - Analytics Triggers](aem-analytics-triggers.md)
 >* [Solr as an Oak index for AEM](solr-as-an-oak-index-for-aem.md)
 >* [Unlocking More Powerful Asset Analytics With AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 

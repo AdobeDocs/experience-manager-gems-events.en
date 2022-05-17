@@ -26,4 +26,3 @@ Ugo Cei, Developer Technical Marketing Manager, Adobe
 
 [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
 
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

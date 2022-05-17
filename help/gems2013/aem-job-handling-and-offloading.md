@@ -33,4 +33,3 @@ Presenter Slides - Part 2
 * [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
 * [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
 * [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -30,7 +30,7 @@ Presented by: Patrick Fauchere, Engineering Manager, Adobe
 
 ## Related Links {#related-links}
 
-[Weekend Tutorial](https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-spa-wknd-tutorial-develop.html)
+[Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 

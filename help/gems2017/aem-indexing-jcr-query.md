@@ -29,7 +29,7 @@ AEM Documentation
 
 Oak Documentation
 
-* [Oak Query and Indexes](https://jackrabbit.apache.org/oak/docs/query/query.html)
+* [Oak Query and Indexes](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
