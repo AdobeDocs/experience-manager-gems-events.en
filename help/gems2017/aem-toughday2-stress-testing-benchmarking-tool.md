@@ -19,7 +19,7 @@ targetaudience: target-audience advanced
 * Catalin Luta, QE Developer, Adobe
 * Andrei Stefan Tuicu, QE Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-toughday2.pdf)
 <!--

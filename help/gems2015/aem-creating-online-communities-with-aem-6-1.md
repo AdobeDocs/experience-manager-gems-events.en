@@ -18,7 +18,7 @@ Imagine being able to stand up a community site in hours rather than weeks with 
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-6-1-communities-gems.pdf)
 <!--

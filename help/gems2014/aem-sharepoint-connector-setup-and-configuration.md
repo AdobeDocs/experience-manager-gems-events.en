@@ -23,7 +23,7 @@ Adobe’s SharePoint Connector exposes content via the standard JCR interface, e
 
 Tarun Aggarwal, Lead Software Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/cq-gems-sharepoint-connector.pdf)
 <!--

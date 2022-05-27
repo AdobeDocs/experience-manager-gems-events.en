@@ -22,11 +22,11 @@ Chat expert,
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-91416-template-editor.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
 * [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

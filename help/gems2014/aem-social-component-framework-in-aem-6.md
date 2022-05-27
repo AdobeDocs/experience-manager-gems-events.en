@@ -18,11 +18,11 @@ The Social Component Framework (SCF) is available as a featurepack for CQ 5.6.1 
 
 Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/scf-gems.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
 * [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

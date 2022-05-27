@@ -19,7 +19,7 @@ AEM Screens is the new digital signage solution integrated into Adobe Experience
 * Julien Ramboz, UI Developer, Adobe
 * Tobias Reiss, Computer Scientist, Software Development, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/2016-11-16-aem-screens.pdf)
 
@@ -27,7 +27,7 @@ Sample Project
 
 [Get File](assets/aemscreensgems.zip)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
 * [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

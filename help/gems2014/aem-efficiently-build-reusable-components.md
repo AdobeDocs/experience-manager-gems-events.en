@@ -18,7 +18,7 @@ With the Brackets and Eclipse IDE plugins, the HTL template language, and the ne
 
 Gabriel Walt, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/efficiently-build-reusable-components.pdf)
 
@@ -26,7 +26,7 @@ Gabriel Walt, Product Manager, Adobe
 
 [Get File](assets/efficiently-build-reusable-components-q-a.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [AEM HTL Brackets Extension](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 

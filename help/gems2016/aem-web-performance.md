@@ -18,11 +18,11 @@ Delivering complex web experiences fast is challenging. In this talk, Joel will 
 
 * Joel Richard, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-060116-web-performance.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 Apache:  
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)

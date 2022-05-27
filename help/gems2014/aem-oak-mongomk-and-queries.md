@@ -19,7 +19,7 @@ We describe the query engine of Oak and how it compares to Jackrabbit 2.x. The s
 * Thomas Mueller, Senior Software Engineer
 * Marcel Reutegger, Senior Software Engineer
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-6-oak-mongomk-and-queries.pdf)
 
@@ -27,7 +27,7 @@ We describe the query engine of Oak and how it compares to Jackrabbit 2.x. The s
 
 [Get File](assets/q-a-11-19-14-gem-session-oak.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Oak Documentation](http://jackrabbit.apache.org/oak/docs/)
 

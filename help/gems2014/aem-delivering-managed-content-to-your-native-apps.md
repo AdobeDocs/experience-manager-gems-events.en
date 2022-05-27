@@ -18,7 +18,7 @@ While you may not be in a position to move completely to the use of web technolo
 
 Anthony Rumsey, Computer Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

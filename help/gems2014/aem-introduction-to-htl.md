@@ -18,7 +18,7 @@ HTL is a new templating engine and language implementation. HTL endeavors to sup
 
 Gabriel Walt, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/sightly-component-development.pdf)
 
@@ -26,7 +26,7 @@ Gabriel Walt, Product Manager, Adobe
 
 [Get File](assets/introduction-to-sightly-q-as.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Developing with HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 

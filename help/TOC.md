@@ -30,7 +30,7 @@ feature-set: Experience Manager
   + [Adobe Developer (IO) events - Analytics Triggers](gems2018/aem-analytics-triggers.md)
   + [Experiments in AEM Author scalability](gems2018/aem-author-scalability1.md)
   + [AEM core components](gems2018/aem-core-components.md)
-  + [The digital asset explosion & AEM Assets](gems2018/aem-digital-asset-explosion.md)
+  + [The digital asset explosion & [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
   + [Introduction to ContextHub in AEM 6.4](gems2018/aem-intro-to-contexthub.md)
   + [Machine learning in AEM: Enhanced smart tags, smart layout and more](gems2018/aem-machine-learning.md)
   + [Maintaining open source while maintaining your sanity](gems2018/aem-maintaining-open-source.md)

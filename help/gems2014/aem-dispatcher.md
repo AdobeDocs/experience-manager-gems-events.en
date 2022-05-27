@@ -18,7 +18,7 @@ This session will explore new features in the dispatcher (since version 4.1.9) a
 
 Dominique Pfister, Senior Computer Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/dispatcher-aemgemsnov2017.pdf)
 

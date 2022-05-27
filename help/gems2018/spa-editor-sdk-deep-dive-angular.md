@@ -24,11 +24,11 @@ Deep dive with us into the development of Single-Page-Applications that can be a
 
 Presented by: Artur Kudlacz, Developer, Adobe
 
-Presenter Slides - 11/21/18
+Presenter slides - 11/21/18
 
 [Get File](assets/aem-gems-aem-spaeditorangular-112118.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 

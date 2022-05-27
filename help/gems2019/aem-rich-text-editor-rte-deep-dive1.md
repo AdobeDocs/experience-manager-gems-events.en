@@ -20,6 +20,6 @@ Learn the Best Practices around the rich configurations and use of RTE in AEM. W
 
 Hanish Bansal, Computer Scientist, Adobe
 
-Presenter Slides, Date: 04/17/2019
+Presenter slides, Date: 04/17/2019
 
 [Get File](assets/aem-gems-aem-rte-04172019.pdf)

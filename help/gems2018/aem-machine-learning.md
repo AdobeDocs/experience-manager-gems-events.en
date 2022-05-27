@@ -17,7 +17,7 @@ targetaudience: target-audience advanced
 
 Jonas Dahl, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 

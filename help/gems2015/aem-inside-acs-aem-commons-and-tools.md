@@ -24,7 +24,7 @@ In this session, Justin Edelson, Global Evangelist for AEM and co-project lead o
 
 * Justin Edelson, Evangelist for AEM, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/08262015-commons-and-tools.pptx)
 <!--

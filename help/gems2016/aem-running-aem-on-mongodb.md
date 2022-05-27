@@ -18,11 +18,11 @@ This AEM Gem will detail how to run AEM on MongoDB in a production setting. We w
 
 * Ian Boston, Senior Software Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-032316-onmongodb.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [AEM with MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
 

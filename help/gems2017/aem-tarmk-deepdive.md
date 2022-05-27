@@ -16,7 +16,7 @@ Ever wondered what is inside the TarMK's tar files? What is a segment and what i
 
 **Michael Duerig, Senior Developer, Adobe**
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-tarmk-deep-dive.pptx)
 

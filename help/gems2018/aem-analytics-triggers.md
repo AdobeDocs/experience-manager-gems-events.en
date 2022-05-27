@@ -19,7 +19,7 @@ Combine the power of event-driven architecture and real-time customer behavior p
 
 Sarah Xu, Developer Evangelist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 

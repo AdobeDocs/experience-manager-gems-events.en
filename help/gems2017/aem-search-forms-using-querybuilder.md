@@ -16,11 +16,11 @@ Most developers have come across the AEM querybuilder as a high-level query lang
 
 **Alexander Klimetschek, Senior Developer, Adobe**
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-querybuilder-2017.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 Demo
 

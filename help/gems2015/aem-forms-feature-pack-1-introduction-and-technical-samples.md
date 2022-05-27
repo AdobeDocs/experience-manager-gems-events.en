@@ -19,7 +19,7 @@ AEM [!DNL Forms] Feature Pack 1 is the upgrade path for LiveCycle deployments an
 * Steve Monroe, Senior Manager Enterprise Solutions, Adobe
 * Girish Bedekar, LiveCycle Solution Evangelist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-forms-fp1-2015-0204.pdf)
 <!--

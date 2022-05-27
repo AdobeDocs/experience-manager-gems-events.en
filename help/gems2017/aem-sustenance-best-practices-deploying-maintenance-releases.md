@@ -19,7 +19,7 @@ Join us to know the best practices for deploying AEM Maintenance Releases i.e. S
 * Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

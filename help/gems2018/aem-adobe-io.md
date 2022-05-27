@@ -18,7 +18,7 @@ Tired of building connectors for AEM? Come learn how you can expose any internal
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gem-2018-05-aem-events.pdf)
 

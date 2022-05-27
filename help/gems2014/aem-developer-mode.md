@@ -20,7 +20,7 @@ David will introduce you to the Developer Mode, new in AEM 6. Marketing and cust
 
 David Catalan, QE Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-6-developer-mode-07-16-14.pdf)
 

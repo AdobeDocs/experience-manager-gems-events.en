@@ -16,7 +16,7 @@ From Unit Testing to Integration Test of an Experience Manager Application Autom
 
 **Robert Munteanu and Carsten Ziegeler**
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

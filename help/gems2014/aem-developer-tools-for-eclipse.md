@@ -18,11 +18,11 @@ The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making 
 
 Stefan Egli, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-dev-tools-cq-gems.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
 * [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)

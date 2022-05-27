@@ -20,7 +20,7 @@ Gabriel Walt, Product Manager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem64-developerupdate31418.pdf)
 

@@ -19,7 +19,7 @@ Sling Content Distribution (SCD) can be used in AEM for forward, reverse content
 
 Timothee Maret, Senior Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-scd.pdf)
 

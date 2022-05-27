@@ -18,7 +18,7 @@ In this session we look at the new external login module of Apache Jackrabbit Oa
 
 * Tobias Bocanegra, Principal Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/oak-ldap-cqgems.pdf)
 <!--

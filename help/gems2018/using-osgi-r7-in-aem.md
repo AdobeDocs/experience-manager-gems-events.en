@@ -34,7 +34,7 @@ Date: 10/17/2018
 
 [Get File](assets/aem-gems-osg-r7inaem-10172018.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [OSGi Alliance Blog](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 

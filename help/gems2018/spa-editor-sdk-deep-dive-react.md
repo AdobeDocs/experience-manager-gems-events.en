@@ -24,11 +24,11 @@ Deep dive with us into the development of Single-Page-Applications that can be a
 
 Presented by: Patrick Fauchere, Engineering Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 

@@ -19,11 +19,11 @@ To maximize your AEM experience, it is important that you fine tune your AEM Dis
 * Dominique Pfister, Senior Computer Scientist, Adobe
 * Andrew Khoury, CS Engineer, Adobe
 
-**Presenter Slides - part 1**
+**Presenter slides - part 1**
 
 [Get File](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
 
-**Presenter Slides - part 2**
+**Presenter slides - part 2**
 
 [Get File](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--

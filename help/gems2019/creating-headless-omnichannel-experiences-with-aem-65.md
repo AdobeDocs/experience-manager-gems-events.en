@@ -22,6 +22,6 @@ You need to create the next level of fluid experiences to keep up with your fast
 
 * Amol Anand, Principal Consultant, Technical Architect, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/headless-omnichannelwebinar04162019.pdf)

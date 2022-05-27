@@ -19,11 +19,11 @@ The session will walk the audience through ways how to extend AEM 6.0’s user i
 * Gilles Knobloch, Engineering Manager, Adobe  
 * Damien Antipa, Senior UX Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/user-interface-customization-for-aem6.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [Touch UI Concepts](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [Structure](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)

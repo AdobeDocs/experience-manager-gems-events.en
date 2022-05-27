@@ -23,11 +23,11 @@ AEM6 comes with a fresh new repository backend designed for improved performance
 
 Jukka Zitting, Senior Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM Upgrade Documentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
 * [Presentation from ApacheCon "Oak, the architecture of Apache Jackrabbit 3"](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

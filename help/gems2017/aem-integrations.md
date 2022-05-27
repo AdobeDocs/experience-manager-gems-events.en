@@ -18,11 +18,11 @@ While AEM work is pretty self-contained, we AT/AAM/AA consultants working with A
 
 Jan Exner, Mgr. Management Consultant, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/170927-aem-gems-integrations.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Web Analytics for Developers](https://webanalyticsfordevelopers.com/)
 

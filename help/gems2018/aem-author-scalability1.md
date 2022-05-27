@@ -18,7 +18,7 @@ Scaling AEM Authors is primarily about scaling Oak, but what is the best way to 
 
 Matt Ryan, Sr. Software Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--

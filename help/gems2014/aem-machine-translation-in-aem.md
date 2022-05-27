@@ -19,11 +19,11 @@ Adobe Experience Manager enables you to localize user-generated and authored con
 * Akshay Madan, Principal Product Manager Multilingual Product Management & Solutions, Adobe
 * Chris Wendt, Principal Group Program Manager Microsoft Translator, Microsoft
 
-Presenter Slides - Adobe
+Presenter slides - Adobe
 
 [Get File](assets/aem-gems-machine-translation-12-03-14.pdf)
 
-Presenter Slides - Microsoft
+Presenter slides - Microsoft
 
 [Get File](assets/adobe-microsoft-gems-12-03-14.pdf)
 

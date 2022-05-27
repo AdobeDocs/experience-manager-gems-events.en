@@ -26,7 +26,7 @@ Join Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing to learn 
 * Peter Ciszak, Computer Scientist, Adobe
 * Kirk Jones, Computer Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/dynamicmedia83017.pdf)
 <!--

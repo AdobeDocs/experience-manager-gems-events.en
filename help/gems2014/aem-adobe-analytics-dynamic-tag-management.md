@@ -19,11 +19,11 @@ AEM 6 comes with a cloud service for Dynamic Tag Management (DTM), Adobe’s rec
 
 Sandro Looser, Solution Architect, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/dtm-10-1-2014.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Integrating with Adobe Dynamic Tag Management](http://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 

@@ -19,11 +19,11 @@ This session describes the AEM upgrade mechanisms, which allow for upgrading AEM
 * Bertrand Delacretaz, Principal Scientist, Adobe
 * Tomek Rekawek Software Developer, Adobe
 
-Presenter Slides - Delacretaz
+Presenter slides - Delacretaz
 
 [Get File](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
 
-Presenter Slides - Rekawek
+Presenter slides - Rekawek
 
 [Get File](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--

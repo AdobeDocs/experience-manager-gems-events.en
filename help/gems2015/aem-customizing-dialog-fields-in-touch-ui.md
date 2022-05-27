@@ -24,7 +24,7 @@ In this session, we will explain how to implement custom fields (or widgets) for
 * Christanto Leonardo, Senior Developer, Adobe
 * Christian Meyer, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

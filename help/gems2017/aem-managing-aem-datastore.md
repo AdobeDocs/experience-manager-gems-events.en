@@ -18,7 +18,7 @@ The session will provide an overview of the DataStore (DS) and details on config
 
 Amit Jain, Sr. Computer Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/managing-aem-datastoreoct17.pdf)
 <!--

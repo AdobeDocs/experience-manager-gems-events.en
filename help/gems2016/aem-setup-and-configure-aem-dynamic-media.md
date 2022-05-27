@@ -19,11 +19,11 @@ AEM Dynamic Media enables customers to scalably and cost effectively deliver eng
 * Cynthia Tillo, Principal Product Manager, Adobe
 * Bob van Manen, Engineering Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aemgems-081716-dynamic-media-configuration.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Configuring Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 

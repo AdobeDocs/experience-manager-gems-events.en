@@ -16,13 +16,13 @@ Media portals are critical for organizations to share assets both internally and
 
 **Presented by:**
 
-Mike Carley, Product Marketing Manager - AEM Assets, Adobe
+Mike Carley, Product Marketing Manager - [!DNL AEM Assets], Adobe
 
 Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
 
 Daniel Gordon, Technical Marketing Engineer - AEM, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

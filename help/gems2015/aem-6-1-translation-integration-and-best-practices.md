@@ -19,7 +19,7 @@ Cristine and Mathias will present enhanced translation integration capabilities 
 * Christine Duran, Sr Manager Translation Technologies, Adobe
 * Mathias Siegel, Sr Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

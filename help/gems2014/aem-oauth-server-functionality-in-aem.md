@@ -18,7 +18,7 @@ Adobe Experience Manager (AEM) is implemented to be run in an OSGi environment a
 
 Antonio Sanso, Software Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--

@@ -18,11 +18,11 @@ In this session Peter Klassen - Product Manager will look at the following: JCR 
 
 Peter Klassen, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem6-platform-whatsnew.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)

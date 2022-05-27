@@ -25,7 +25,7 @@ Key Takeaways:
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

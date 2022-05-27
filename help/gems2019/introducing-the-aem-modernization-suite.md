@@ -24,6 +24,6 @@ Some Customers still rely on the Classic UI for their AEM Sites authoring experi
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/modernization-toolsaemgems.pdf)
