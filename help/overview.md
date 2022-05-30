@@ -30,7 +30,7 @@ The webinars will be conducted regularly, including the following:
 ## Upcoming Webinar and Registration
 
 All our AEM GEMs webinars are free of charge and conducted virtually. 
-* Our next AEM GEMs webinar will be on Cloud Manager - [Looking under the hood - Cloud Manager 2022](upcomingwebinars/looking-under-the-hood---cloud-manager-2022)
+* Our next AEM GEMs webinar will be on Cloud Manager - [Looking under the hood - Cloud Manager 2022](upcomingwebinars/looking-under-the-hood-cloud-manager-2022)
 * Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about our upcoming webinars.
 
 ## Experience League Community
