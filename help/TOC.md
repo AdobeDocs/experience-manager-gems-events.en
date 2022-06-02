@@ -9,7 +9,7 @@ feature-set: Experience Manager
 
 + [Overview](overview.md)
 + Upcoming Webinars{#upcomingwebinars}
-  + [Announcement will follow soon](upcomingwebinars/anouncements.md)
+  + [Looking under the hood - Cloud Manager 2022](upcomingwebinars/looking-under-the-hood-cloud-manager-2022.md)
 + 2022{#gems2022}
   + [Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](gems2022/aem-and-cif-framework-integration.md)
   + [Build websites faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
