@@ -1,12 +1,12 @@
 ---
-title: Technical Overview of the AEM 6 Platform
-description: 'In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.'
+title: Technical overview of the AEM 6 platform
+description: In this session, Peter Klassen - Product Manager, looks JCR Repository reloaded, performance improvements, and new scalability options.
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: adfa8ba5-943b-4363-b810-b452078681ab
 ---
-# Technical Overview of the AEM 6 Platform{#technical-overview-of-the-aem-platform}
+# Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
 
 In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.
 
