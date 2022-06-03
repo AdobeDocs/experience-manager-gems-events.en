@@ -1,6 +1,6 @@
 ---
 title: AEM 6.0 Developer Mode
-description: 'David will introduce you to the Developer Mode, new in AEM 6. Marketing and customer added value: Ease customer application development by providing Debugging and Testing tools directly in AEM Authoring Demo Description: * Developer Mode is a bridge between authors and developer [Component Tree] * Developer Mode is a Debugging Helper [Errors Notifier] * Developer Mode is a Test Companion [Application Testing Tool] (Hobbes.js AEM Implementation)'
+description: Learn about the Developer Mode in AEM 6.0.
 uuid: ade5e9fd-a81a-4cec-a6ea-fff8cbaf4777
 discoiquuid: cbfc5299-e915-4ac5-8ce6-57a289b973ec
 targetaudience: target-audience advanced
@@ -8,9 +8,11 @@ exl-id: b3cb97da-1b9e-4bdf-85e3-b438822baba0
 ---
 # AEM 6.0 Developer Mode{#aem-developer-mode}
 
-"David will introduce you to the Developer Mode, new in AEM 6. Marketing and customer added value: Ease customer application development by providing Debugging and Testing tools directly in AEM Authoring Demo Description: * Developer Mode is a bridge between authors and developer [Component Tree] * Developer Mode is a Debugging Helper [Errors Notifier] * Developer Mode is a Test Companion [Application Testing Tool] (Hobbes.js AEM Implementation)"
+David introduces you to the Developer Mode in AEM 6.O. Developer mode is: 
 
-David will introduce you to the Developer Mode, new in AEM 6. Marketing and customer added value: Ease customer application development by providing Debugging and Testing tools directly in AEM Authoring Demo Description: * Developer Mode is a bridge between authors and developer [Component Tree] * Developer Mode is a Debugging Helper [Errors Notifier] * Developer Mode is a Test Companion [Application Testing Tool] (Hobbes.js AEM Implementation)
+* A bridge between authors and developer (Component Tree)
+* A debugging helper (errors notifier) 
+* A test companion (application testing tool) (Hobbes.js AEM Implementation)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 

@@ -82,7 +82,7 @@ feature-set: Experience Manager
   + [Tips and tricks for AEM Sites Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
   + [Track quality metrics of your JavaScript project](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014{#gems2014}
-  + [How to deploy Adobe Analytics on a local AEM instance by using the Dynamic Tag Management cloud service](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
+  + [Deploy Adobe Analytics on a local AEM instance via the DTM cloud service](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
   + [How to get the most out of your DAM Feature Pack](/help/gems2014/aem-dam-feature-pack.md)
   + [Delivering Managed Content to your Native Apps](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
   + [AEM 6.0 Developer Mode](/help/gems2014/aem-developer-mode.md)
