@@ -13,5 +13,5 @@ level: Intermediate
 
 >[!NOTE]
 >
->* Information on upcoming sessions will follow soon.
+>* Information on upcoming sessions will follow in July, 2022.
 >* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified on upcoming webinars.
