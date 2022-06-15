@@ -27,7 +27,7 @@ Sandro Looser, Solution Architect, Adobe
 
 [Integrating with Adobe Dynamic Tag Management](http://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[DTM Help](https://marketing.adobe.com/resources/help/en_US/dtm/)
+[DTM Help](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
 [Request Access to DTM](https://dtm.adobe.com/request_access)
 
