@@ -8,7 +8,7 @@ exl-id: 10015f99-68fe-4a76-aadd-9c68002d99cc
 ---
 # Dispatcher - New features and best practices{#dispatcher-new-features-and-best-practices}
 
-This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
+This session explores new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
@@ -18,7 +18,7 @@ This session will explore new features in the dispatcher (since version 4.1.9) a
 
 Dominique Pfister, Senior Computer Scientist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/dispatcher-aemgemsnov2017.pdf)
 

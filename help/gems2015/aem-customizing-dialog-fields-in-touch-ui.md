@@ -1,12 +1,12 @@
 ---
-title: Customizing Dialog Fields in Touch UI
-description: 'In this session, we will explain how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. The goal is to show you how things that were previously done with ExtJS (Classic UI) could now be done using Granite UI and Coral UI: Creating a new field | Extending an existing field | Handling validation | Handling events'
+title: Customize dialog fields in Touch UI
+description: Learn how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. Discover how things that were previously done with ExtJS (Classic UI) can now be done using Granite UI and Coral UI.
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: 8f7d0072-b741-46af-8f4e-6ea6705f3a33
 ---
-# Customizing Dialog Fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
+# Customize dialog fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
 
 In this session, we will explain how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. The goal is to show you how things that were previously done with ExtJS (Classic UI) could now be done using Granite UI and Coral UI:
 
@@ -24,7 +24,7 @@ In this session, we will explain how to implement custom fields (or widgets) for
 * Christanto Leonardo, Senior Developer, Adobe
 * Christian Meyer, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

@@ -16,7 +16,7 @@ This Gems sessions is dedicated to have a closer look on implementation details 
 
 **Presented by:** Artur Kudlacz, Developer, Adobe
 
-Presenter Slides, Date: 03/20/2019
+Presenter slides, Date: 03/20/2019
 
 [Get File](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 

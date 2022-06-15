@@ -19,7 +19,7 @@ Join Gabriel Walt and Justin Edelson for a peek into what we’ve been working o
 * Gabriel Walt, Product Manager, Adobe
 * Justin Edelson, Experience Architect & Evangelist, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

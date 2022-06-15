@@ -1,12 +1,12 @@
 ---
-title: CQ/AEM 5.6 Troubleshooting
-description: In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
+title: CQ/AEM 5.6 troubleshooting
+description: Learn the guidelines on how to troubleshoot a CQ/AEM (5.6)-based application, along with some best practices and a few examples on how good methodology can help shorten the solution path.
 uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: bcae8bf9-7d3d-418e-8c40-adb10fecac5b
 ---
-# CQ/AEM 5.6 Troubleshooting{#cq-aem-troubleshooting}
+# CQ/AEM 5.6 troubleshooting{#cq-aem-troubleshooting}
 
 In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
 
@@ -18,10 +18,10 @@ In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6)
 
 Thierry Yge, Senior Support Engineer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gems-cq-troubleshoot-ppt-2.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 [Documentation](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)

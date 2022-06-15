@@ -18,11 +18,11 @@ Replication is a central feature in AEM as it allows publishing authored content
 
 **Tommaso Teofili, Developer, Adobe**
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM 6.3 Replication](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
 * [AEM 6.2 Replication](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)

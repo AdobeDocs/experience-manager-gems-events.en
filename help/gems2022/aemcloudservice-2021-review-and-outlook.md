@@ -1,6 +1,6 @@
 ---
 title: AEM as a Cloud Service - 2021 review and 2022 outlook
-description: This AEM GEMs webinar recording will include AEM as a Cloud Service - 2021 review andd 2022 outlook
+description: Watch an AEM GEMs webinar fir a review of AEM as a Cloud Service in 2021. Also get an overview for what's in store for 2022.
 version: Cloud Service
 feature: Release Information
 topic: Content Management
@@ -10,7 +10,7 @@ kt: 10055
 thumbnail: 341444.jpeg
 ---
 
-# Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook
+# Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook
 
 This AEM GEMs webinar recording will include the following:
 

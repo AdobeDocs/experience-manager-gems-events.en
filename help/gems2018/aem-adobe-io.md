@@ -1,5 +1,5 @@
 ---
-title: "Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events"
+title: Real-time and lightweight - build event-driven integrations with AEM using Adobe I/O Events
 description: Tired of building connectors for AEM? Come learn how you can expose any internal OSGi events from AEM through Adobe I/O Events to build event-driven workflows across multiple systems with ease. I/O Events allows you to respond to both administrative events and customer behaviors in real-time.
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
@@ -18,7 +18,7 @@ Tired of building connectors for AEM? Come learn how you can expose any internal
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/gem-2018-05-aem-events.pdf)
 

@@ -18,7 +18,7 @@ Get a peek into what we’ve been working on for the next generation of Adobe Ex
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-technical-sneak-peek.pdf)
 <!--

@@ -19,7 +19,7 @@ We describe the features of Oak Lucene indexes and how they can be used to get y
 * Chetan Mehrotra, Senior Computer Scientist, Adobe
 * Alex Parvulescu, Senior Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
@@ -27,7 +27,7 @@ We describe the features of Oak Lucene indexes and how they can be used to get y
 
 [Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
 * [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

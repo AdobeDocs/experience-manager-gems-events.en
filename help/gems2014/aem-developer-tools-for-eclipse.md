@@ -1,6 +1,6 @@
 ---
 title: AEM Developer Tools for Eclipse
-description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content – it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
+description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
@@ -8,7 +8,7 @@ exl-id: 3d8db8a1-d2a7-48ed-bd56-9430f17298e1
 ---
 # AEM Developer Tools for Eclipse{#aem-developer-tools-for-eclipse}
 
-The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content – it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
+The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
@@ -18,11 +18,11 @@ The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making 
 
 Stefan Egli, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-dev-tools-cq-gems.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
 * [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)

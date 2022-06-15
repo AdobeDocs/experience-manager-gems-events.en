@@ -1,6 +1,6 @@
 ---
-title: commerce experience
-description: Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Com… (Descriptions should be between 60 and 160 characters)
+title: Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
+description: Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience.
 version: Experience Manager
 feature: Integrations
 topic: Integrations
@@ -11,8 +11,7 @@ kt: 10220
 
 # Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
 
-This AEM GEMs webinar includes a presentation and demo on the following:
-Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Commerce are seamlessly integrated using the Commerce Integration Framework (CIF). CIF enables AEM to directly access and communicate with the commerce instance using Adobe Commerce’s GraphQL APIs (View the high level agenda below).
+This AEM GEMs webinar includes a presentation and demo to help you understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Commerce are seamlessly integrated using the Commerce Integration Framework (CIF). CIF enables AEM to directly access and communicate with the commerce instance using Adobe Commerce’s GraphQL APIs (View the high level agenda below).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -26,25 +25,25 @@ This webinar was conducted on April 27th, 2022 and presented by Kunal Gaba & Vin
 
 **High-level agenda:**
 
-* What is CIF and Why to use CIF?
+* What is CIF and why use CIF?
 
 * CIF integration types and how to use CIF with AEM
 
 * CIF component library
 
-    * AEM CIF Core components
+  * AEM CIF Core components
     
-    * PWA studio library react components
+  * PWA studio library react components
 
 * Considerations for multi-brand and multi-store setup
 
-    * Cloud service configuration in AEM
+  * Cloud service configuration in AEM
 
-    * FE code organization and deployment
+  * FE code organization and deployment
 
-    * Context-aware configurations
+  * Context-aware configurations
 
-    * Multisite management
+  * Multisite management
 
 * Best practices and learnings
 

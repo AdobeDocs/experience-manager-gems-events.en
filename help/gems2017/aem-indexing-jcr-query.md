@@ -16,11 +16,11 @@ targetaudience: target-audience advanced;target-audience ongoing
 
 **Thomas Mueller, Senior Software Engineer, Adobe**
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 AEM Documentation
 

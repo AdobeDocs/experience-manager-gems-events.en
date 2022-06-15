@@ -22,7 +22,7 @@ Methodology to integrate sonarqube analysis to Javascript projects and thus get 
 
 * David Catalan, Lead QE Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

@@ -9,7 +9,7 @@ exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
 ---
 # Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
-This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
+This session is designed to help users improve success leveraging [!DNL AEM Assets]. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
 
 Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
 
@@ -20,14 +20,14 @@ Attendees will be able to better understand how to use DAM in their environments
 **Presented by:**
 
 * Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, Head of Product, AEM Assets, Adobe
+* Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/assets-webinar-oct5final.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
 * [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)

@@ -1,6 +1,6 @@
 ---
 title: AEM Web Performance
-description: 'Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling around the following areas - Network & latency: optimizations for HTTP/1.1 and HTTP/2 - Slow AEM server requests: identifying issues - JavaScript: minimizing overhead'
+description: Delivering complex web experiences fast is challenging. In this talk, Joel will shed light on some of the more common pitfalls. It will include theory, examples, best practices as well as demonstration of tooling.
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
@@ -18,11 +18,11 @@ Delivering complex web experiences fast is challenging. In this talk, Joel will 
 
 * Joel Richard, Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-060116-web-performance.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 Apache:  
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)

@@ -19,11 +19,11 @@ Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer,
 * Sham Hassan Chikkegowda, CS Engineer, Adobe
 * Timothee Maret, Senior Developer, Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/aem-gems-072016-saml.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [SAML 2.0 Authentication Handler](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
 * [[SAMLProf] Profiles for the OASIS Security Assertion Markup Language (SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)

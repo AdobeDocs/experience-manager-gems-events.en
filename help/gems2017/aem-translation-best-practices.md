@@ -17,13 +17,13 @@ In this session, we will present AEM 6.3 capabilities and best practices for man
 **Presented by:**
 
 Leandro Reis, Globalization Architect, Adobe Core Services   
-Mathias Siegel, Sr Product Manager, AEM Sites, Adobe
+Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
-**Presenter Slides**
+**Presenter slides**
 
 [Get File](assets/immerse-2017-translationpresentation-rev1.pdf)
 
-## Related Links {#related-links}
+## Related links {#related-links}
 
 * [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html  )
 * [Managing Multilingual Assets](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
