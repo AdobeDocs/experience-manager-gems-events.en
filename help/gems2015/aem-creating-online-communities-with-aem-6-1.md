@@ -8,7 +8,7 @@ exl-id: 150e11da-7f6f-4d98-b5f2-33e54cf785f0
 ---
 # Create online communities with AEM 6.1{#creating-online-communities-with-aem}
 
-Imagine being able to stand up a community site in hours rather than weeks with little to no assistance from your CQ engineers. AEM Communities 6.1 will be focusing on providing this ability via a wizard-driven templated approach to cover a variety of initial use cases. AEM Communities 6.1 will also provide the ability to further customize these new community sites via AEM's WCM Sites capability. Join us to learn how to leverage AEM’s powerful authoring interface to build a vibrant customer community and learn the tools to keep your fan base engaged long after launch.
+Imagine being able to stand up a community site in hours rather than weeks with little to no assistance from your CQ engineers. AEM Communities 6.1 will be focusing on providing this ability via a wizard-driven templated approach to cover a variety of initial use cases. AEM Communities 6.1 will also provide the ability to further customize these new community sites via AEM's WCM [!DNL Sites] capability. Join us to learn how to leverage AEM’s powerful authoring interface to build a vibrant customer community and learn the tools to keep your fan base engaged long after launch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 

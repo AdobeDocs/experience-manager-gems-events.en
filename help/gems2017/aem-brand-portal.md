@@ -1,6 +1,6 @@
 ---
 title: Major Brand Portal Release and new reference implementation for Asset Share
-description: 'Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we will introduce you to the new Asset Share Commons from Adobe Assets. You will learn:  - what media portal options are available based upon use cases - how to implement these options - best practices for insuring ease of use '
+description: Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we introduce you to the new Asset Share Commons from Adobe Assets.
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
@@ -8,7 +8,13 @@ exl-id: 01be713d-991e-4d72-b9d4-48af60793c54
 ---
 # Major Brand Portal Release and new reference implementation for Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we will introduce you to the new Asset Share Commons from Adobe Assets. You will learn:  - what media portal options are available based upon use cases - how to implement these options - best practices for insuring ease of use 
+Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we will introduce you to the new Asset Share Commons from Adobe Assets. 
+
+You will learn:  
+
+* What media portal options are available based upon use cases 
+* How to implement these options 
+* Best practices for insuring ease of use 
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 

@@ -1,14 +1,14 @@
 ---
 title: Tips and tricks for AEM Sites Touch UI
-description: Learn the coolest tips and tricks about AEM Sites Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
+description: Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: 3a7f3724-5581-4aa4-a31e-20638639866f
 ---
-# Tips and tricks for AEM Sites Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
+# Tips and tricks for [!DNL AEM Sites] Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Learn the coolest tips and tricks about AEM Sites Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
+Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
 
 In this GEM, learn how to: 
 

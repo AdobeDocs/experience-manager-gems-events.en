@@ -79,7 +79,7 @@ feature-set: Experience Manager
   + [Oak's external login module](/help/gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
   + [Sonar - A key element to improve product quality](/help/gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
   + [AEM Tech sneak peek](/help/gems2015/aem-tech-sneak-peek.md)
-  + [Tips and tricks for AEM Sites Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+  + [Tips and tricks for [!DNL AEM Sites] Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
   + [Track quality metrics of your JavaScript project](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014{#gems2014}
   + [Deploy Adobe Analytics on a local AEM instance via the DTM cloud service](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
@@ -103,11 +103,11 @@ feature-set: Experience Manager
   + [CQ/AEM 5.6 Troubleshooting](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
   + [eCommerce Integration Framework](/help/gems2013/aem-ecommerce-integration-framework.md)
   + [hybris/AEM 5.6 eCommerce framework integration](/help/gems2013/aem-hybris-ecommerce-framework-integration.md)
-  + [Introduction of Job Handling and Offloading in AEM 5.6.1.](/help/gems2013/aem-job-handling-and-offloading.md)
+  + [Introduction of job handling and offloading in AEM 5.6.1.](/help/gems2013/aem-job-handling-and-offloading.md)
   + [Launches - concurrent preparation of multiple versions of a website (AEM 5.6)](/help/gems2013/aem-launches.md)
-  + [AEM 5.6 Media Publisher Deep Dive](/help/gems2013/aem-media-publisher-deep-dive.md)
+  + [AEM 5.6 Media Publisher deep dive](/help/gems2013/aem-media-publisher-deep-dive.md)
   + [Metadata Management in AEM DAM](/help/gems2013/aem-metadata-management-in-aem-dam.md)
-  + [Mobile-First Development with CQ Made Easy](/help/gems2013/aem-mobile-first-development-with-cq-made-easy.md)
+  + [Mobile-First Development with CQ made easy](/help/gems2013/aem-mobile-first-development-with-cq-made-easy.md)
   + [Streamlining multilingual content process](/help/gems2013/aem-streamlining-multilingual-content-process.md)
   + [AEM 5.6 upgrade mechanisms](/help/gems2013/aem-upgrade-mechanisms.md)
 

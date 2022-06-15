@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more"
+title: Machine Learning in AEM - Enhanced Smart Tags, Smart Layout and more
 description: Learn how Machine Learning increases productivity and unlocks new use cases in Experience Manager version 6.4
 uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags

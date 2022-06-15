@@ -17,7 +17,7 @@ In this session, we will present AEM 6.3 capabilities and best practices for man
 **Presented by:**
 
 Leandro Reis, Globalization Architect, Adobe Core Services   
-Mathias Siegel, Sr Product Manager, AEM Sites, Adobe
+Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
 **Presenter slides**
 
