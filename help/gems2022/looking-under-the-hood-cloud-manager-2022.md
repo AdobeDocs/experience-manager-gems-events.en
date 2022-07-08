@@ -20,7 +20,7 @@ The content applies to both Adobe Experience Manager as a Cloud Service and Expe
 
 ## Webinar Recording
 
-[!Video](https://video.tv.adobe.com/v/343876)
+>[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
