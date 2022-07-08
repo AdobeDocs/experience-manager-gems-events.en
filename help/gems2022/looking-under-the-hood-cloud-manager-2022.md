@@ -18,7 +18,7 @@ Explore the new features released in the last year, an update on behind-the-scen
 
 The content applies to both Adobe Experience Manager as a Cloud Service and Experience Manager Managed Services, with a focus on Cloud Service. It’s suitable for technical and nontechnical attendees alike. Prior exposure to Cloud Manager can help for context, but it isn’t necessary.
 
-### Webinar Recording
+**Webinar Recording**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
